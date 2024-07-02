@@ -2,28 +2,26 @@
 
 **Summer 2024 (July 8-11, 2024, 08:00-12:00, Beijing Standard Time**)
 
-By Y. Ken Wang, Ph.D.
-
-Associate Professor of Computer Information Systems and Technology
-
+By Y. Ken Wang, Ph.D.\
+Associate Professor of Computer Information Systems and Technology\
 University of Pittsburgh, Bradford Campus
 
 Email: [ykw@pitt.edu](mailto:ykw@pitt.edu)
 
 ### Course Description
 
-Welcome to the Intro to Data Analytics course in R and Python, Summer 2024. This course will be taught online via Zoom Meeting from **July 8-11, 2024, 8:00-12:00 BJT**. 
+Welcome to the Intro to Data Analytics course in R and Python, Summer 2024. This course will be taught online via Zoom Meeting from **July 8-11, 2024, 8:00-12:00 BJT**.   
 
-This course is designed for upper-level undergraduate students and graduate students in business programs with a strong interest in data analytics. This course will introduce concepts, tools, and methods related to data collection, cleaning, processing, analysis, and visualization for business operations. Students in this class will benefit from the hands-on teaching style and real-world cases and examples. 
+This course is designed for upper-level undergraduate students and graduate students in business programs with a strong interest in data analytics. This course will introduce concepts, tools, and methods related to data collection, cleaning, processing, analysis, and visualization for business operations. Students in this class will benefit from the hands-on teaching style and real-world cases and examples.  
 
-Topics of this course include: markdown (a lightweight markup language), the software package R, R statistical methods, Python programming language, Python web handling, regular expression and other data analytics-related tools and topics. This course is intended for students who plan to seek data analytics-related jobs or apply for graduate schools in information systems and/or data sciences. Students who wish to improve academic research skills may also benefit from this course.
+Topics of this course include: markdown (a lightweight markup language), the software package R, R statistical methods, Python programming language, Python web handling, regular expression and other data analytics-related tools and topics. This course is intended for students who plan to seek data analytics-related jobs or apply for graduate schools in information systems and/or data sciences. Students who wish to improve academic research skills may also benefit from this course.  
 
-This course will be taught synchronously on **Zoom** each day in the morining . Please use the following Zoom link and passcode to join the class sessions.
+This course will be taught synchronously on **Zoom** each day in the morining . Please use the following Zoom link and passcode to join the class sessions.  
 
-Join Zoom Meeting
-https://umass-amherst.zoom.us/j/92663244325
-Meeting ID: 926 6324 4325
-Passcode: 378801
+Join Zoom Meeting  
+https://umass-amherst.zoom.us/j/92663244325  
+Meeting ID: 926 6324 4325  
+Passcode: 378801  
 
 A QQ group has been created for discussion and after-class communication. The QQ group ID is **702056006（2024暑期数据分析导论）**. 
 
@@ -35,7 +33,7 @@ This course requires intensive English reading and writing. All course materials
 
 ### Canvas Enrollment
 
-The course LMS (learning management system) is Canvas by Instructure. All course materials, including assignment and grade management will be hosted on Canvas. 
+The course LMS (learning management system) is **Canvas** by Instructure. All course materials, including assignment and grade management will be hosted on Canvas. 
 
 All students should self-enroll on Canvas prior to July 8. The enrollment link is: **https://canvas.instructure.com/enroll/MA9AJE** 
 
@@ -43,16 +41,17 @@ All students should self-enroll on Canvas prior to July 8. The enrollment link i
 
 Although students are not required to have a computer programming background, at least one intro-level programming course and one college-level statistics course prior to taking this course will be very helpful.
 
-***This is an intensive coding class***. We'll spend the majority of time on hands-on coding practices. All students **MUST** bring a personal computer. If you are running Zoom on a tablet, a separate personal computer will be needed for coding. 
+***This is an intensive coding class***. We'll spend the majority of time on hands-on coding practices. All students **MUST** bring a personal computer. If you are running Zoom on a tablet, a separate personal computer may be needed for coding. 
 
-It is not recommended to run Zoom on a mobile phone, as you won't be able to see the code on a small screen.
+Running Zoom on a mobile phone is NOT recommended because the small screen makes it difficult to view the code clearly.
 
-Please follow the enclosed instructions to install the required software on your own computer, including:
+Please follow the enclosed instructions to install the required software on your computer, including:
 
+- Visual Studio Code
 - R
 - R Studio
 - Python
-- PyCharm
+- PyCharm (optional)
 
 Please have the above software packages installed on your computer before our first day of class. 
 
@@ -64,9 +63,9 @@ There is no required textbook in this course. You may find the following referen
 
 **Learning Python**, by Mark Lutz, 4th Edition, ISBN: 978-0-596-15806-4
 
-#### Topics Covered
+### Topics Covered
 
-##### Tools
+#### Tools
 
 - Markdown
 - LaTex Math
@@ -74,7 +73,7 @@ There is no required textbook in this course. You may find the following referen
 - Visual Studio Code
 - Regular expressions
 
-##### R
+#### R
 
 - Installation of R and R Studio
 
@@ -128,7 +127,7 @@ There is no required textbook in this course. You may find the following referen
 
 - Statisitics in R
 
-##### Python
+#### Python
 
 - Installation of Python and PyCharm
 
