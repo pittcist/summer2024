@@ -16,7 +16,7 @@ This course is designed for upper-level undergraduate students and graduate stud
 
 Topics of this course include: markdown (a lightweight markup language), the software package R, R statistical methods, Python programming language, Python web handling, regular expression and other data analytics-related tools and topics. This course is intended for students who plan to seek data analytics-related jobs or apply for graduate schools in information systems and/or data sciences. Students who wish to improve academic research skills may also benefit from this course.  
 
-This course will be taught synchronously on **Zoom** each day in the morining . Please use the following Zoom link and passcode to join the class sessions.  
+This course will be taught synchronously on **Zoom** each day in the morining. Please use the following Zoom link and passcode to join the class sessions.  
 
 Join Zoom Meeting  
 https://umass-amherst.zoom.us/j/92663244325  
@@ -83,59 +83,39 @@ There is no required textbook in this course. You may find the following referen
   - Setting up work directory
 
 - R Data Structures
-
   - Vectors and calculation
-
   - Text ouput
   - Graphics output
-
   - Sequence and repetition
-
   - Missing values
-
   - Random numbers
-
   - Subsetting
-
   - Plotting
-
   - Matrix
-
   - Data Sets
     - Attaching a data set
-
   - Slicing
-
   - Loops
-
   - Functions
-
   - cbind() and rbind()
-
   - Monte Carlo simulation
-
   - File operations
 
 - Tidyverse - dplyr and tidyr
-
   - dplyr and tidyr
-
   - Piping 
 
 - Data Visualization
   - ggplot2
 
-- Statisitics in R
+- Statistics in R
 
 #### Python
 
 - Installation of Python and PyCharm
-
 - Python basic syntax
-- Web Handling with BeautifulSoup
-
+- Web Handling with BeautifulSoup (bs4)
 - Image processing with Pillow
-
 - Face detection
 
 ### Course Conduct and Policies 
