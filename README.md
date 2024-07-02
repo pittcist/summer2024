@@ -1,13 +1,6 @@
-## Intro to Data Analytics in R and Python
-## Course Syllabus
+## Course Syllabus - Intro to Data Analytics in R and Python 
 
 **Summer 2024 (July 8-11, 2024, 08:00-12:00, Beijing Standard Time**)
-
-By Y. Ken Wang, Ph.D.\
-Associate Professor of Computer Information Systems and Technology\
-University of Pittsburgh, Bradford Campus
-
-Email: [ykw@pitt.edu](mailto:ykw@pitt.edu)
 
 ### Course Description
 
@@ -18,13 +11,6 @@ This course is designed for upper-level undergraduate students and graduate stud
 Topics of this course include: markdown (a lightweight markup language), the software package R, R statistical methods, Python programming language, Python web handling, regular expression and other data analytics-related tools and topics. This course is intended for students who plan to seek data analytics-related jobs or apply for graduate schools in information systems and/or data sciences. Students who wish to improve academic research skills may also benefit from this course.  
 
 This course will be taught synchronously on **Zoom** each day in the morining. Please use the following Zoom link and passcode to join the class sessions.  
-
-Join Zoom Meeting  
-https://umass-amherst.zoom.us/j/92663244325  
-Meeting ID: 926 6324 4325  
-Passcode: 378801  
-
-A QQ group has been created for discussion and after-class communication. The QQ group ID is **702056006（2024暑期数据分析导论）**. 
 
 ### Language
 
