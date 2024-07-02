@@ -69,7 +69,7 @@ There is no required textbook in this course. You may find the following referen
 
 - Markdown
 - LaTex Math
-- Git and Github
+- Git and GitHub
 - Visual Studio Code
 - Regular expressions
 
