@@ -10,7 +10,7 @@ This course is designed for upper-level undergraduate students and graduate stud
 
 Topics of this course include: markdown (a lightweight markup language), the software package R, R statistical methods, Python programming language, Python web handling, regular expression and other data analytics-related tools and topics. This course is intended for students who plan to seek data analytics-related jobs or apply for graduate schools in information systems and/or data sciences. Students who wish to improve academic research skills may also benefit from this course.  
 
-This course will be taught synchronously on **Zoom** each day in the morining. Please use the following Zoom link and passcode to join the class sessions.  
+This course will be taught synchronously on **Zoom** each day in the morning. Please use the provided Zoom link and passcode to join the class sessions.  
 
 ### Language
 
