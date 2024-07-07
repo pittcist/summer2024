@@ -73,7 +73,7 @@ Create the following sequences using R commands.
 
 2. (1, 2, 3, …,19, 20, 19, 18, …, 2, 1) 
 
-3. Create a vector of the values of $$cos \theta$$ at $$\theta$$ = 3, 3.1, 3.2, … 6
+3. Create a vector of the values of $cos \theta$ at $\theta$ = 3, 3.1, 3.2, … ,6
 
 4. Create the following vectors in R:
 
@@ -132,7 +132,7 @@ $$
 8. Plot the following curve. You can assign any values to ***⍺*** and ***β***. Let ***θ*** vary from **-*π*** to ***π***. 
 
 $$
-x = (\alpha + \beta\theta)cos \theta \newline
+x = (\alpha + \beta\theta)cos \theta  \newline  
 y = (\alpha + \beta\theta)sin \theta
 $$
 
