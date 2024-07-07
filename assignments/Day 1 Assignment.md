@@ -132,7 +132,10 @@ $$
 8. Plot the following curve. You can assign any values to ***⍺*** and ***β***. Let ***θ*** vary from **-*π*** to ***π***. 
 
 $$
-x = (\alpha + \beta\theta)cos \theta  \newline  
+x = (\alpha + \beta\theta)cos \theta 
+$$
+
+$$
 y = (\alpha + \beta\theta)sin \theta
 $$
 
