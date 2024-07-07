@@ -2,7 +2,7 @@
 
 Create a new R notebook or script file in R-Studio named **StudentID_name_day1.rmd** or **StudentID_name_day1.r** 
 
-Insert the following comments to the top of the file. Replace the blocked contents with your personal information.
+Insert the following comments at the top of the file. Replace the contents in the brackets with your personal information.
 
 ```R
 # Assignment 1
@@ -13,7 +13,7 @@ Insert the following comments to the top of the file. Replace the blocked conten
 
 ### **Task 1** Observation
 
-Work the following exercises and **observe** the output of the commands. What is the output of the following commands? Try to predict the solutions before you type in the commands. 
+Do the following exercises and **observe** the output of the commands. Try to predict the solutions before you type in the commands. 
 
 ##### Define
 
@@ -59,7 +59,7 @@ a = c(1, 2, 4, 5, 6)
 b = c(3, 2, 4, 1, 9)
 ```
 
-##### Answer the following questions:
+##### Answer the following questions
 
  What is the value of: `cbind(a, b)`?
 
