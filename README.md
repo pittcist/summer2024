@@ -1,6 +1,6 @@
 ## Course Syllabus - Intro to Data Analytics in R and Python 
 
-**Summer 2024 (July 8-11, 2024, 08:00-12:00, Beijing Standard Time**)
+**Summer 2024 (July 8-11, 2024, 08:00-12:00, Beijing Standard Time)**
 
 ### Course Description
 
